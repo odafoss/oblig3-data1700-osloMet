@@ -12,3 +12,4 @@ Man kan koble den til localhost:8080
 oblig3:
 man får listen sendt til localhost:8080/h2-console,
 listen blir sortert etter etternavn
+https://youtu.be/myTnxMpAwBM 
