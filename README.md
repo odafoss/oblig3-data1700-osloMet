@@ -1,4 +1,4 @@
-OsloMet BrukerNavn : Odfos8892 GitHub Brukernavn: odafoss GitHub repo Url:
+OsloMet BrukerNavn : Odfos8892 GitHub Brukernavn: odafoss GitHub repo Url:https://github.com/odafoss/oblig3-data1700-osloMet
 Fullt navn: Oda Kristine Johansen Fossvoll
 Kort beskrivelse av applikasjonen: Det er en enkel nettside der man kan velge en film man vil se, og fylle inn kontaktinformasjon. 
 Etter man har fyllt ut boksene på siden skrives teksten ut under når man trykker kjøp billett. 
